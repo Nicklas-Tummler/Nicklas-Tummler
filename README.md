@@ -1,10 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Nicklas Pontoppidan Tummler</h1>
 <h3 align="center">A passionate frontend developer from Denmark/Sweden</h3>
 
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicklas-tummler&label=Profile%20views&color=0e75b6&style=flat" alt="nicklas-tummler" /> </p>
-
 
 - 🔭 I’m currently working on **Country/city API**
 
@@ -27,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicklas-tummler&show_icons=true&locale=en" alt="nicklas-tummler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicklas-tummler&" alt="nicklas-tummler" /></p>
+
 
 
